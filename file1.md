@@ -1,2 +1,2 @@
 This is the file1.
-I wnat to check my details.
+I want to check my details.
